@@ -2,7 +2,7 @@
 ## The project is a Linear regression model for two distinct students(25th and 35th) grades
 
 ## Simple linear regression Model :
-                  ''' Y = B0 + B1X + E '''
+                   Y = B0 + B1X + E
  where
 - Y is the predicted value of the dependent variable (y) for any given value of the 
 independent variable (x).
