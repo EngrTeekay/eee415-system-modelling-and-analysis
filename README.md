@@ -2,23 +2,23 @@
 ## The project is a Linear regression model for two distinct students(25th and 35th) grades
 
 ## Simple linear regression Model :
-                  *Y = B0 + B1X + E*
+                  ''' Y = B0 + B1X + E '''
  where
-• Y is the predicted value of the dependent variable (y) for any given value of the 
+- Y is the predicted value of the dependent variable (y) for any given value of the 
 independent variable (x).
-• B0 is the intercept, the predicted value of y when the x is 0.
-• B1 is the regression coefficient – how much we expect y to change as x increases.
-• X is the independent variable (the variable we expect is influencing y).
-• E is the error of the estimate, or how much variation there is in our estimate of the 
+- B0 is the intercept, the predicted value of y when the x is 0.
+- B1 is the regression coefficient – how much we expect y to change as x increases.
+- X is the independent variable (the variable we expect is influencing y).
+- E is the error of the estimate, or how much variation there is in our estimate of the 
 regression coefficient
 
 ## Tools and Programming language used
-• Microsoft Excel for data manipulation and linear regression analysis.
-• Google Colab for python modules and scripts and jupyter notebook
-• Framework: Sci-kit learn for building Linear regression model
-• Scientific computing Libraries: numpy, pandas
-• Visualization: Microsoft Excel, Seaborn, Matplotlib
-• Programming language: Python
+- Microsoft Excel for data manipulation and linear regression analysis.
+- Google Colab for python modules and scripts and jupyter notebook
+- Framework: Sci-kit learn for building Linear regression model
+- Scientific computing Libraries: numpy, pandas
+- Visualization: Microsoft Excel, Seaborn, Matplotlib
+- Programming language: Python
 
 ## Result
 The grade points of the students were used to predict their score in another course. The 25th
