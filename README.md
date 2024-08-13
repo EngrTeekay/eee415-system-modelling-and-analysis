@@ -1,5 +1,5 @@
-# EEE 415 System Modelling and Analysis Project
-## The project is a Linear regression model for two distinct students(25th and 35th) grades
+# System Modelling and Analysis Project
+## Linear regression model for two distinct students(25th and 35th) grades
 
 ## Simple linear regression Model :
                    Y = B0 + B1X + E
